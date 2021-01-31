@@ -8,12 +8,6 @@ body {
 body > * {
 	width: 100%;
 }
-.col {
-	margin: 0 5%;
-}
-h1 {
-	font-size: 2vmin;
-}
 
 #copy-button {
 	background: rgba(58, 58, 184, 0.575);
